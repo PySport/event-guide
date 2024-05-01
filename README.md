@@ -8,6 +8,6 @@ Technical conferences play a crucial role in disseminating knowledge and fosteri
 
 ### Contents
 
-- **[Presentation Recording Guide](presentation-recording.md):** Comprehensive guide on recording and live-streaming technical presentations, with best practices and role-specific instructions.
+- **[Video production](video-production.md):** Comprehensive guide on recording and live-streaming technical presentations, with best practices and role-specific instructions.
 
 We hope these guidelines help your team create an engaging and informative experience for your audience.
