@@ -15,6 +15,12 @@ The main goal of technical videos is to enable viewers to learn effectively from
 - **Visibility of Code:** If the speaker is showing code, it must be clear enough for the audience to read. Adjust camera focus and resolution to ensure visibility.
 - **Flexible Presentation Views:** When it's not possible to show both the speaker and slides on screen simultaneously, prioritize the slides. Use Picture-in-Picture (PiP) to maintain a visual presence of the speaker when possible.
 
+## Importance of Sponsors
+Sponsors play a critical role in making conferences possible. It's essential to ensure that sponsors receive adequate visibility in the videos, which can be achieved in various ways:
+- **Opening Slide:** Feature the sponsor logos on the opening slide of each session to highlight their contributions.
+- **Background Branding:** Incorporate sponsor branding into the video background, such as a digital overlay or physical backdrop, throughout the video.
+- **Outro Slide:** End each session with an outro slide displaying sponsor logos, expressing gratitude for their support.
+
 ## Types of Recording and Streaming
 1. **Livestreaming Every Presentation Separately**
    - **Description:** Each talk has its own dedicated YouTube link, allowing for focused content delivery.
@@ -36,6 +42,13 @@ The main goal of technical videos is to enable viewers to learn effectively from
    - **Key Considerations:**
      - Allows for more refined editing but requires more time and resources.
      - Ensure post-production teams have access to the necessary tools and software.
+
+## Naming and Describing Videos
+Proper naming and description of videos on YouTube are crucial for accessibility and discoverability:
+- **Naming Conventions:** Use a consistent format that includes the session title, conference name, and year (e.g., "Deep Learning with Python - TechConf 2024").
+- **Descriptions:** Include a brief summary of the talk, speaker details, and relevant links. Mention sponsors here as well.
+- **Tags:** Add relevant keywords and tags to improve search visibility.
+- **Thumbnails:** Create eye-catching thumbnails that reflect the content and maintain brand consistency.
 
 ## Additional Best Practices
 - **Output for Screen:**
