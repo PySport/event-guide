@@ -5,7 +5,7 @@ Technical conferences serve as key platforms for disseminating knowledge and fos
 
 ### Example Videos
 To see the standards and techniques described in these guidelines in action, consider watching the following example videos:
-- [Produced by Valentin: Example of Quality Recording and Production](https://youtu.be/0UJT4sGIckg?feature=shared)
+- [[EnzymeCon2023] Accelerating Black Hole Imaging with Enzyme](https://youtu.be/0UJT4sGIckg?feature=shared)
 - [JuliaCon 2019: Example of High-Quality Live Streaming](https://www.youtube.com/live/IE39JoVIaEw?feature=shared)
 - [Maarten Breddels - Keynote: Solara simplifies building complex dashboards](https://www.youtube.com/watch?v=2MVUZV0icxU&list=PLGVZCDnMOq0qkbJjIfppGO44yhDV2i4gR&index=4)
 
