@@ -3,6 +3,11 @@
 ## Introduction
 Technical conferences serve as key platforms for disseminating knowledge and fostering innovation. High-quality audio and video production are essential for conveying intricate technical details to both live and remote audiences. This guide combines best practices to ensure seamless recording and live-streaming of technical presentations, with role-specific guidelines for conference organizers, technicians, and venue managers.
 
+### Example Videos
+To see the standards and techniques described in these guidelines in action, consider watching the following example videos:
+- [Produced by Valentin: Example of Quality Recording and Production](https://youtu.be/0UJT4sGIckg?feature=shared)
+- [JuliaCon 2019: Example of High-Quality Live Streaming](https://www.youtube.com/live/IE39JoVIaEw?feature=shared)
+
 ## Requirements for Effective Technical Videos
 The main goal of technical videos is to enable viewers to learn effectively from the content. Thus, it's crucial to focus on the following elements:
 - **Clear Audio of the Speaker:** Use high-quality microphones to capture the speaker’s voice, ensuring that viewers can follow along without difficulty.
