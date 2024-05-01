@@ -7,6 +7,7 @@ Technical conferences serve as key platforms for disseminating knowledge and fos
 To see the standards and techniques described in these guidelines in action, consider watching the following example videos:
 - [Produced by Valentin: Example of Quality Recording and Production](https://youtu.be/0UJT4sGIckg?feature=shared)
 - [JuliaCon 2019: Example of High-Quality Live Streaming](https://www.youtube.com/live/IE39JoVIaEw?feature=shared)
+- [Maarten Breddels - Keynote: Solara simplifies building complex dashboards](https://www.youtube.com/watch?v=2MVUZV0icxU&list=PLGVZCDnMOq0qkbJjIfppGO44yhDV2i4gR&index=4)
 
 ## Requirements for Effective Technical Videos
 The main goal of technical videos is to enable viewers to learn effectively from the content. Thus, it's crucial to focus on the following elements:
@@ -43,9 +44,16 @@ Sponsors play a critical role in making conferences possible. It's essential to 
      - Allows for more refined editing but requires more time and resources.
      - Ensure post-production teams have access to the necessary tools and software.
 
+## HDMI Capture Best Practices
+Capturing HDMI signals is crucial for high-quality video recording and streaming. However, splitting HDMI signals can be challenging, especially with Mac devices. Here are some best practices:
+- **Use Quality HDMI Splitters:** Invest in high-quality HDMI splitters that can handle HDCP (High-bandwidth Digital Content Protection) and support the required resolution.
+- **Test Compatibility:** Not all HDMI splitters work well with Mac devices. Test the setup in advance to ensure compatibility.
+- **Have Presentations Upfront:** Collect all presentations before the conference and test them for compatibility with the A/V system.
+- **Embed Videos in Presentations:** Ensure any videos are embedded directly within the presentations to minimize playback issues.
+
 ## Naming and Describing Videos
 Proper naming and description of videos on YouTube are crucial for accessibility and discoverability:
-- **Naming Conventions:** Use a consistent format that includes the session title, conference name, and year (e.g., "Deep Learning with Python - TechConf 2024").
+- **Naming Conventions:** Use a consistent format that includes the session title. If the video is part of a playlist that includes the conference name and year, the individual video titles do not need this information (e.g., "Deep Learning with Python").
 - **Descriptions:** Include a brief summary of the talk, speaker details, and relevant links. Mention sponsors here as well.
 - **Tags:** Add relevant keywords and tags to improve search visibility.
 - **Thumbnails:** Create eye-catching thumbnails that reflect the content and maintain brand consistency.
